@@ -1,6 +1,6 @@
 # St. Himark Emergency Response Dashboard
 
-![Dashboard Screenshot](./visualizations/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/yashp329/st-himark-emergency-response-dashboard/blob/main/Dashboard.png)
 
 This repository contains a comprehensive analysis of damage reports and infrastructure data following a seismic event in the city of St. Himark. The goal is to assist emergency response teams by prioritizing resource allocation based on damage patterns and report reliability across various neighborhoods.
 
