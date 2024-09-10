@@ -1,7 +1,10 @@
 # St. Himark Emergency Response Dashboard
 
+![Dashboard Screenshot](./visualizations/dashboard_screenshot.png)
+
 This repository contains a comprehensive analysis of damage reports and infrastructure data following a seismic event in the city of St. Himark. The goal is to assist emergency response teams by prioritizing resource allocation based on damage patterns and report reliability across various neighborhoods.
 
+**Live Dashboard**: [St. Himark Emergency Response Dashboard](https://himarkapp-hyhk3nfzjzmbunjbsk7txf.streamlit.app/)
 
 ## Dataset
 
@@ -26,7 +29,6 @@ The dataset consists of over 83,000 records, capturing critical infrastructure i
 - **Report Reliability**: Neighborhoods such as East Parton, Oak Willow, and Pepper Mill provided more consistent and reliable damage reports, while locations like Palace Hills showed greater variability.
 
 - **Real-Time Access**: Deploying the dashboard via Streamlit reduced response time by 20%, allowing decision-makers to access critical information efficiently.
-
 
 
 ## Conclusion
