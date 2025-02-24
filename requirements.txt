@@ -1,7 +1,5 @@
-altair==5.3.0
-ipython==8.12.3
-ipywidgets==8.0.4
-matplotlib==3.7.2
+streamlit
 numpy>=1.25.0
-pandas==2.0.3
-streamlit==1.31.1
+pandas
+matplotlib
+altair
